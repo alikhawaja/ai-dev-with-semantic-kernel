@@ -17,11 +17,11 @@
 		<PackageReference Include="Microsoft.Identity.Web.DownstreamApi" Version="3.3.0" />
 		<PackageReference Include="Microsoft.Identity.Web.UI" Version="3.3.0" />
 		<PackageReference Include="Microsoft.Identity.Web.MicrosoftGraph" Version="3.3.0" />
-		<PackageReference Include="Microsoft.SemanticKernel" Version="1.25.0" />
-		<PackageReference Include="Microsoft.SemanticKernel.Connectors.AzureAISearch" Version="1.25.0-preview" />
-		<PackageReference Include="Microsoft.SemanticKernel.Connectors.OpenAI" Version="1.25.0" />
-		<PackageReference Include="Microsoft.SemanticKernel.Plugins.MsGraph" Version="1.25.0-alpha" />
-		<PackageReference Include="Microsoft.SemanticKernel.Plugins.OpenApi" Version="1.25.0-alpha" />
+		<PackageReference Include="Microsoft.SemanticKernel" Version="1.27.0" />
+		<PackageReference Include="Microsoft.SemanticKernel.Connectors.AzureAISearch" Version="1.27.0-preview" />
+		<PackageReference Include="Microsoft.SemanticKernel.Connectors.OpenAI" Version="1.27.0" />
+		<PackageReference Include="Microsoft.SemanticKernel.Plugins.MsGraph" Version="1.27.0-alpha" />
+		<PackageReference Include="Microsoft.SemanticKernel.Plugins.OpenApi" Version="1.27.0-alpha" />
 	</ItemGroup>
 	<ItemGroup>
 	  <ProjectReference Include="..\Aspire\Aspire.ServiceDefaults\Aspire.ServiceDefaults.csproj" />
